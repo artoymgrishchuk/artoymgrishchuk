@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artyom Grishchuk
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently studying react.js
 - 📫 How to reach me artoymgr.work@gmail.com
 
 <!---
